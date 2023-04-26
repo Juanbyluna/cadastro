@@ -1,13 +1,13 @@
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(135, 146, 243);
+    background-color: rgb(153, 8, 146);
     max-width: 0;
     margin-left: 300px;
+    top: 30x;
 
 }
 div{
- background-color: rgba(192, 223, 252, 0.966);
- border-radius:50px;
+ background-color: rgb(255, 124, 124);
+ border-radius:70px;
  width: 700px;
  margin-top: 30px;
  font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: center;
@@ -15,8 +15,13 @@ div{
 button{
     color:rgb(27, 29, 32);
    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgba(146, 255, 113, 0.842);
+    background-color: rgba(111, 255, 106, 0.884);
   border-radius: 15px;
   size: 15px;
+}
+input{
+  border-radius: 20px;
+  background-color:  rgba(255, 124, 124);
+  border-color: rgba(153, 8, 146) ;
 }
 
