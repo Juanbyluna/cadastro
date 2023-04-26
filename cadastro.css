@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(135, 146, 243);
+    max-width: 0;
+    margin-left: 300px;
+
+}
+div{
+ background-color: rgba(192, 223, 252, 0.966);
+ border-radius:50px;
+ width: 700px;
+ margin-top: 30px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: center;
+}
+button{
+    color:rgb(27, 29, 32);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(146, 255, 113, 0.842);
+  border-radius: 15px;
+  size: 15px;
+}
+
