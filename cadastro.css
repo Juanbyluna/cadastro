@@ -13,9 +13,9 @@ div{
  font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: center;
 }
 button{
-    color:rgb(27, 29, 32);
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgba(111, 255, 106, 0.884);
+  color:rgb(27, 29, 32);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(111, 255, 106, 0.884);
   border-radius: 15px;
   size: 15px;
 }
@@ -23,5 +23,13 @@ input{
   border-radius: 20px;
   background-color:  rgba(255, 124, 124);
   border-color: rgba(153, 8, 146) ;
+  width: 350px;
+  size: 10px;
+}
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 50px;
+  text-shadow: 10x;
+  color: rgb(255, 255, 255);
 }
 
